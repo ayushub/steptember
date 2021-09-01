@@ -28,7 +28,6 @@ axios
         coos += coo.name + '=' + coo.value + ';';
     });
     console.log(`statusCode: ${res.statusCode}`)
-    console.log(res)
 
     axios.get('https://www.steptember.org.au/login/activity', {headers: {'cookie': coos}})
         .then(res => {
@@ -57,7 +56,6 @@ axios
         } })
         .then(res => {
             console.log(`statusCode: ${res.statusCode}`)
-            console.log(res)
             axios.get('https://www.steptember.org.au/login/activity', {headers: {'cookie': coos}})
                 .then(res => {
                     const from = res.data.indexOf('<table id="data-table"');
