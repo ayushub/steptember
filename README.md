@@ -11,7 +11,7 @@ day = 02
 ```
 
 run the below commands
-` npm i
-` npm start
+`npm i`
+`npm start`
 
 that should add the steps against your user.
