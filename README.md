@@ -18,4 +18,4 @@ npm start
 
 that should add the steps against your user.
 
-## Web app with all these and more implemented here -> https://script.google.com/macros/s/AKfycbwG3L1w0HBk9IXcmEEc88wpmco3g3L9VLSGLKwZNCfKMRdLiDNXr-kGi6zwtndb2_nwtg/exec
+## Web app with all these and more implemented [here](https://script.google.com/macros/s/AKfycbwG3L1w0HBk9IXcmEEc88wpmco3g3L9VLSGLKwZNCfKMRdLiDNXr-kGi6zwtndb2_nwtg/exec)
